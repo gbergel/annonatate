@@ -1,0 +1,38 @@
+---
+canvas: "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17280/canvas/80"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "pasted-in illustration",
+            "purpose": "commenting",
+            "creator": {
+                "id": "gbergel",
+                "name": "Giles Bergel"
+            },
+            "created": "2024-10-29T15:02:24.267Z",
+            "modified": "2024-10-29T15:02:30.946Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17280",
+                "type": "Manifest"
+            },
+            "id": "https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17280/canvas/80",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=994.3760986328125,3899.531982421875,2630.5408935546875,1470.135009765625"
+        }
+    },
+    "id": "f04c1331-ae09-4d53-90e9-dbf14f0b7a52.json",
+    "motivation": "commenting"
+}
