@@ -1,3 +1,9 @@
-images: []
+images:
+- added: '2024-10-29 15:01:42.194727'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: https://www.digitalcollections.manchester.ac.uk/iiif/PR-INCU-17280
+  user: Giles Bergel
 settings: {}
 version: '2.1'
